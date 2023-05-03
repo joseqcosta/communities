@@ -15,7 +15,7 @@ Resume information:
 * 🏠Microsoft Luanda
 * 🎫Get your FREE ticket - [https://www.globalazure.ao/](https://www.globalazure.ao/)
 * 🎙️Call for speakers - [https://sessionize.com/global-azure-angola-2023](https://sessionize.com/global-azure-angola-2023/)
-* 💶Sponsors - We are looking for sponsors. Reach out to the organization team at [https://www.linkedin.com/groups/9302919/](https://www.linkedin.com/groups/9302919/)
+* 💶Sponsors - We are looking for sponsors. Reach out to the organization team at [[Sponsors - We are looking for sponsors. Reach out to the organization team at](https://www.meetup.com/pt-BR/data-azure-community-luanda/events/293191553/)](https://www.meetup.com/pt-BR/data-azure-community-luanda/events/293191553/)
 
 If you have any questions, feedback or thoughts, please reach out to the community organizers at:
-* https://www.linkedin.com/groups/9302919/
+* https://www.meetup.com/pt-BR/data-azure-community-luanda/events/293191553/
